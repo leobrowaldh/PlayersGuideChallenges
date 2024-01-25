@@ -41,11 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L30_ColoredItems", "L30_Col
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L31_TheFounainOfObjects", "L31_TheFounainOfObjects\L31_TheFounainOfObjects.csproj", "{840C1132-688E-4027-B6D9-BCA0B60826B2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Helpers", "..\SeidoHelpers\Helpers\Helpers.csproj", "{A8CDCFBE-61EB-4EAB-863B-661FA6556C01}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hunting the Manticore", "Hunting the Manticore\Hunting the Manticore\Hunting the Manticore.csproj", "{437E69B5-F6D1-44FC-A9AD-520CC5491078}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L32_ListsOfCommands", "L32_ListsOfCommands\L32_ListsOfCommands.csproj", "{91690EF5-1BF7-4D44-AA03-6274BDF10415}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L36_TheSieve", "L36_TheSieve\L36_TheSieve.csproj", "{66783F4E-F824-449A-84BD-83CD7A633FCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L36_TheSieveInheritance", "L36_TheSieveInheritance\L36_TheSieveInheritance.csproj", "{39F5ECFD-444A-477A-9A84-445E71D59DA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,10 +131,6 @@ Global
 		{840C1132-688E-4027-B6D9-BCA0B60826B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{840C1132-688E-4027-B6D9-BCA0B60826B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{840C1132-688E-4027-B6D9-BCA0B60826B2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A8CDCFBE-61EB-4EAB-863B-661FA6556C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8CDCFBE-61EB-4EAB-863B-661FA6556C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8CDCFBE-61EB-4EAB-863B-661FA6556C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8CDCFBE-61EB-4EAB-863B-661FA6556C01}.Release|Any CPU.Build.0 = Release|Any CPU
 		{437E69B5-F6D1-44FC-A9AD-520CC5491078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{437E69B5-F6D1-44FC-A9AD-520CC5491078}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{437E69B5-F6D1-44FC-A9AD-520CC5491078}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -141,6 +139,14 @@ Global
 		{91690EF5-1BF7-4D44-AA03-6274BDF10415}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91690EF5-1BF7-4D44-AA03-6274BDF10415}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91690EF5-1BF7-4D44-AA03-6274BDF10415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66783F4E-F824-449A-84BD-83CD7A633FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66783F4E-F824-449A-84BD-83CD7A633FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66783F4E-F824-449A-84BD-83CD7A633FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66783F4E-F824-449A-84BD-83CD7A633FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F5ECFD-444A-477A-9A84-445E71D59DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F5ECFD-444A-477A-9A84-445E71D59DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F5ECFD-444A-477A-9A84-445E71D59DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F5ECFD-444A-477A-9A84-445E71D59DA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
